@@ -19,7 +19,7 @@ Problem-Solving Leadership
 - Feel free to explore my repositories to discover more about my coding projects and contributions.
   
 - If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out. Let's code together and build something amazing! 
-LinkedIn | Email: solankikush46@gmail.com | Phone: (314)-901-8222
+LinkedIn: www.linkedin.com/in/kush-solanki | Email: solankikush46@gmail.com | Phone: (314)-901-8222
 
 <!---
 solankikush46/solankikush46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
