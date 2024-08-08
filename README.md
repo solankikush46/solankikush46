@@ -2,7 +2,7 @@
 - 👀 I am currently looking for an internship as a software engineer.
 - 🌱 I’m currently enrolled as an undergraduate in Computer Science at Missouri University of Science and Technology,Rolla,Missouri.
 Programming Languages:
-C, C++, Java
+C, C++, Java, React, node js
 
 Software:
 Microsoft Excel, Microsoft PowerPoint
@@ -14,7 +14,7 @@ Operating System:
 Windows
 
 Other Skills:
-Problem-Solving Leadership
+Problem-Solving, Leadership, Teamwork
 
 - Feel free to explore my repositories to discover more about my coding projects and contributions.
   
